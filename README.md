@@ -1,4 +1,7 @@
-ИСПч3(вуз)
+ИСПч3(вуз) лабы по WPF C# (windows presentation foundation) и не только:
 
-лабы по WPF C# (windows presentation foundation) и не только
+Скачайте все эти файлы, откройте ISPlabs.sln в VS, и готово, пока есть все лабы кроме тех трёх, что про ADO.NET
 
+P.S. При открытии проекта названия поменяются на нормальные, но всё же:
+WpfApp1 == lab17
+ISPlabs == lab16
